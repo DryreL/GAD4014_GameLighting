@@ -1,7 +1,7 @@
 Introduction
 ============
 
-GAD4014 code means In-Game Lighting course of Bahçeşehir University Digital Game Design department.
+GAD4014 means In-Game Lighting course of Bahçeşehir University Digital Game Design department.
 
 In this course, we apply advanced lighting methods practically.
 
@@ -18,7 +18,7 @@ The images below contain the original lighting of a selected asset (on the left)
 Credits
 =======
 
-Gökdeniz Çetin (aka DryreL) - [https://www.linkedin.com/in/gokdenizcetin/](LinkedIn)
+Gökdeniz Çetin (aka DryreL) - [LinkedIn](https://www.linkedin.com/in/gokdenizcetin/) - [Website](https://www.gokdenizcetin.com)
 
 Others
 ======
