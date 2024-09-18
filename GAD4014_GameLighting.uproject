@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.1",
+	"EngineAssociation": "5.4",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -21,6 +21,14 @@
 		},
 		{
 			"Name": "PerforceSourceControl",
+			"Enabled": false
+		},
+		{
+			"Name": "DryreLUIEssentialsPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "FMODStudio",
 			"Enabled": false
 		}
 	]
